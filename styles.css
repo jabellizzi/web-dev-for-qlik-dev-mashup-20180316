@@ -1,0 +1,31 @@
+body {
+  background-color: #eee;
+}
+
+.chart {
+  background-color: #fff;
+  margin-bottom: 40px;
+  box-shadow: 2px 2px 10px #aaa;
+}
+
+.kpi {
+  height: 150px;
+}
+
+.line-chart,
+.scatter,
+.bar,
+.pie,
+.table {
+  height: 300px;
+}
+
+#slider-container {
+  margin-top: 100px;
+  font-size: 32px;
+}
+
+#what-if-slider {
+  width: 300px;
+  display: inline-block;
+}
